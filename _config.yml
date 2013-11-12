@@ -1,4 +1,4 @@
-BASE_PATH: http://pdaire.github.io/votaxmi
+url: http://pdaire.github.io/votaxmi
 name: Vota por mi
 markdown: rdiscount
 pygments: true
