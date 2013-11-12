@@ -1,3 +1,4 @@
 name: Vota por mi
 markdown: rdiscount
 pygments: true
+BASE_PATH: http://pdaire.github.io/votaxmi
